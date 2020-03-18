@@ -1,0 +1,1344 @@
+#############Alpha= 0.1 Gamma= 0.99 Epsilon = 1.0
+episode 1000 score -237.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -163.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -153.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -145.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -141.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -130.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -140.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -133.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -136.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -129.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+episode 11000 score -137.0 epsilon 0.55999999999956
+ Epsilon at max step of episode 11000 is 0.55999999999956
+episode 12000 score -138.0 epsilon 0.51999999999952
+ Epsilon at max step of episode 12000 is 0.51999999999952
+episode 13000 score -135.0 epsilon 0.47999999999950776
+ Epsilon at max step of episode 13000 is 0.47999999999950776
+episode 14000 score -136.0 epsilon 0.4399999999995233
+ Epsilon at max step of episode 14000 is 0.4399999999995233
+episode 15000 score -135.0 epsilon 0.3999999999995388
+ Epsilon at max step of episode 15000 is 0.3999999999995388
+episode 16000 score -143.0 epsilon 0.3599999999995543
+ Epsilon at max step of episode 16000 is 0.3599999999995543
+episode 17000 score -129.0 epsilon 0.3199999999995698
+ Epsilon at max step of episode 17000 is 0.3199999999995698
+episode 18000 score -141.0 epsilon 0.2799999999995853
+ Epsilon at max step of episode 18000 is 0.2799999999995853
+episode 19000 score -140.0 epsilon 0.23999999999959384
+ Epsilon at max step of episode 19000 is 0.23999999999959384
+episode 20000 score -134.0 epsilon 0.1999999999995816
+ Epsilon at max step of episode 20000 is 0.1999999999995816
+episode 21000 score -142.0 epsilon 0.15999999999956935
+ Epsilon at max step of episode 21000 is 0.15999999999956935
+episode 22000 score -142.0 epsilon 0.11999999999955885
+ Epsilon at max step of episode 22000 is 0.11999999999955885
+episode 23000 score -140.0 epsilon 0.07999999999956048
+ Epsilon at max step of episode 23000 is 0.07999999999956048
+episode 24000 score -130.0 epsilon 0.03999999999956211
+ Epsilon at max step of episode 24000 is 0.03999999999956211
+episode 25000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  143.72618
+############Alpha= 0.1 Gamma= 0.99 Epsilon = 0.5
+episode 1000 score -158.0 epsilon 0.4600000000000155
+ Epsilon at max step of episode 1000 is 0.4600000000000155
+episode 2000 score -219.0 epsilon 0.420000000000031
+ Epsilon at max step of episode 2000 is 0.420000000000031
+episode 3000 score -237.0 epsilon 0.3800000000000465
+ Epsilon at max step of episode 3000 is 0.3800000000000465
+episode 4000 score -146.0 epsilon 0.34000000000006203
+ Epsilon at max step of episode 4000 is 0.34000000000006203
+episode 5000 score -135.0 epsilon 0.30000000000007754
+ Epsilon at max step of episode 5000 is 0.30000000000007754
+episode 6000 score -131.0 epsilon 0.26000000000009305
+ Epsilon at max step of episode 6000 is 0.26000000000009305
+episode 7000 score -140.0 epsilon 0.22000000000008774
+ Epsilon at max step of episode 7000 is 0.22000000000008774
+episode 8000 score -144.0 epsilon 0.1800000000000755
+ Epsilon at max step of episode 8000 is 0.1800000000000755
+episode 9000 score -133.0 epsilon 0.14000000000006324
+ Epsilon at max step of episode 9000 is 0.14000000000006324
+episode 10000 score -137.0 epsilon 0.10000000000005967
+ Epsilon at max step of episode 10000 is 0.10000000000005967
+episode 11000 score -142.0 epsilon 0.060000000000061296
+ Epsilon at max step of episode 11000 is 0.060000000000061296
+episode 12000 score -140.0 epsilon 0.020000000000062926
+ Epsilon at max step of episode 12000 is 0.020000000000062926
+episode 13000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -136.0 epsilon 0.01
+episode 37000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  144.02276
+#########Alpha= 0.1 Gamma= 0.99 Epsilon = 0.2
+episode 1000 score -258.0 epsilon 0.15999999999998776
+ Epsilon at max step of episode 1000 is 0.15999999999998776
+episode 2000 score -153.0 epsilon 0.11999999999997726
+ Epsilon at max step of episode 2000 is 0.11999999999997726
+episode 3000 score -159.0 epsilon 0.0799999999999789
+ Epsilon at max step of episode 3000 is 0.0799999999999789
+episode 4000 score -132.0 epsilon 0.03999999999998052
+ Epsilon at max step of episode 4000 is 0.03999999999998052
+episode 5000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 5000 is 0.01
+episode 6000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 6000 is 0.01
+episode 7000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 7000 is 0.01
+episode 8000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 8000 is 0.01
+episode 9000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 9000 is 0.01
+episode 10000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 10000 is 0.01
+episode 11000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 11000 is 0.01
+episode 12000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 12000 is 0.01
+episode 13000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -128.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -128.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  139.37876
+########Alpha= 0.1 Gamma= 0.5 Epsilon = 1.0
+episode 1000 score -231.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -134.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -146.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -147.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -166.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -149.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -150.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -152.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -209.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -149.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+episode 11000 score -147.0 epsilon 0.55999999999956
+ Epsilon at max step of episode 11000 is 0.55999999999956
+episode 12000 score -205.0 epsilon 0.51999999999952
+ Epsilon at max step of episode 12000 is 0.51999999999952
+episode 13000 score -155.0 epsilon 0.47999999999950776
+ Epsilon at max step of episode 13000 is 0.47999999999950776
+episode 14000 score -156.0 epsilon 0.4399999999995233
+ Epsilon at max step of episode 14000 is 0.4399999999995233
+episode 15000 score -160.0 epsilon 0.3999999999995388
+ Epsilon at max step of episode 15000 is 0.3999999999995388
+episode 16000 score -217.0 epsilon 0.3599999999995543
+ Epsilon at max step of episode 16000 is 0.3599999999995543
+episode 17000 score -228.0 epsilon 0.3199999999995698
+ Epsilon at max step of episode 17000 is 0.3199999999995698
+episode 18000 score -224.0 epsilon 0.2799999999995853
+ Epsilon at max step of episode 18000 is 0.2799999999995853
+episode 19000 score -218.0 epsilon 0.23999999999959384
+ Epsilon at max step of episode 19000 is 0.23999999999959384
+episode 20000 score -148.0 epsilon 0.1999999999995816
+ Epsilon at max step of episode 20000 is 0.1999999999995816
+episode 21000 score -209.0 epsilon 0.15999999999956935
+ Epsilon at max step of episode 21000 is 0.15999999999956935
+episode 22000 score -211.0 epsilon 0.11999999999955885
+ Epsilon at max step of episode 22000 is 0.11999999999955885
+episode 23000 score -144.0 epsilon 0.07999999999956048
+ Epsilon at max step of episode 23000 is 0.07999999999956048
+episode 24000 score -217.0 epsilon 0.03999999999956211
+ Epsilon at max step of episode 24000 is 0.03999999999956211
+episode 25000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -215.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -216.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -153.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -213.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -209.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -217.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -214.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -219.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -161.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -148.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  179.84234
+#########Alpha= 0.1 Gamma= 0.5 Epsilon = 0.5
+episode 1000 score -225.0 epsilon 0.4600000000000155
+ Epsilon at max step of episode 1000 is 0.4600000000000155
+episode 2000 score -202.0 epsilon 0.420000000000031
+ Epsilon at max step of episode 2000 is 0.420000000000031
+episode 3000 score -218.0 epsilon 0.3800000000000465
+ Epsilon at max step of episode 3000 is 0.3800000000000465
+episode 4000 score -148.0 epsilon 0.34000000000006203
+ Epsilon at max step of episode 4000 is 0.34000000000006203
+episode 5000 score -149.0 epsilon 0.30000000000007754
+ Epsilon at max step of episode 5000 is 0.30000000000007754
+episode 6000 score -153.0 epsilon 0.26000000000009305
+ Epsilon at max step of episode 6000 is 0.26000000000009305
+episode 7000 score -214.0 epsilon 0.22000000000008774
+ Epsilon at max step of episode 7000 is 0.22000000000008774
+episode 8000 score -215.0 epsilon 0.1800000000000755
+ Epsilon at max step of episode 8000 is 0.1800000000000755
+episode 9000 score -218.0 epsilon 0.14000000000006324
+ Epsilon at max step of episode 9000 is 0.14000000000006324
+episode 10000 score -216.0 epsilon 0.10000000000005967
+ Epsilon at max step of episode 10000 is 0.10000000000005967
+episode 11000 score -199.0 epsilon 0.060000000000061296
+ Epsilon at max step of episode 11000 is 0.060000000000061296
+episode 12000 score -144.0 epsilon 0.020000000000062926
+ Epsilon at max step of episode 12000 is 0.020000000000062926
+episode 13000 score -205.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -200.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -155.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -211.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -155.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -142.0 epsilon 0.01
+                                Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -142.0 epsilon 0.01
+42000 is 0.01
+episode 43000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -148.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  163.94576
+##########Alpha= 0.1 Gamma= 0.5 Epsilon = 0.2
+episode 1000 score -202.0 epsilon 0.15999999999998776
+ Epsilon at max step of episode 1000 is 0.15999999999998776
+episode 2000 score -151.0 epsilon 0.11999999999997726
+ Epsilon at max step of episode 2000 is 0.11999999999997726
+episode 3000 score -150.0 epsilon 0.0799999999999789
+ Epsilon at max step of episode 3000 is 0.0799999999999789
+episode 4000 score -146.0 epsilon 0.03999999999998052
+ Epsilon at max step of episode 4000 is 0.03999999999998052
+episode 5000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 5000 is 0.01
+episode 6000 score -215.0 epsilon 0.01
+ Epsilon at max step of episode 6000 is 0.01
+episode 7000 score -203.0 epsilon 0.01
+ Epsilon at max step of episode 7000 is 0.01
+episode 8000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 8000 is 0.01
+episode 9000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 9000 is 0.01
+episode 10000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 10000 is 0.01
+episode 11000 score -154.0 epsilon 0.01
+ Epsilon at max step of episode 11000 is 0.01
+episode 12000 score -157.0 epsilon 0.01
+ Epsilon at max step of episode 12000 is 0.01
+episode 13000 score -163.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -225.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -191.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -154.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -161.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -153.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -148.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -159.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -162.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -162.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -159.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -163.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -162.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -160.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -161.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -163.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -166.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -169.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -165.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -165.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -166.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -168.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -158.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -165.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -163.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -161.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  166.02044
+Alpha= 0.1 Gamma= 0.2 Epsilon = 1.0
+episode 1000 score -152.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -5000.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -5000.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -5000.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -5000.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -5000.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -5000.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -5000.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -5000.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -5000.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+Traceback (most recent call last):
+  File "mountainq.py", line 121, in <module>
+    env_mountain_car(alpha,gamma, epsilon, max_q_policy=True)
+  File "mountainq.py", line 79, in env_mountain_car
+    Q[state , action]=Q[state , action]+alpha*(reward + gamma*Q[state_ , action_]-Q[s
+tate , action])
+KeyboardInterrupt
+
+(opengym) C:\Users\Suprita Ganesh\Desktop\gym>python mountainq.py
+Alpha= 0.1 Gamma= 0.99 Epsilon = 1.0
+episode 1000 score -197.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -135.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -133.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -146.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -126.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -136.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -132.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -137.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -129.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -131.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+episode 11000 score -137.0 epsilon 0.55999999999956
+ Epsilon at max step of episode 11000 is 0.55999999999956
+episode 12000 score -132.0 epsilon 0.51999999999952
+ Epsilon at max step of episode 12000 is 0.51999999999952
+episode 13000 score -135.0 epsilon 0.47999999999950776
+ Epsilon at max step of episode 13000 is 0.47999999999950776
+episode 14000 score -129.0 epsilon 0.4399999999995233
+ Epsilon at max step of episode 14000 is 0.4399999999995233
+episode 15000 score -127.0 epsilon 0.3999999999995388
+ Epsilon at max step of episode 15000 is 0.3999999999995388
+episode 16000 score -132.0 epsilon 0.3599999999995543
+ Epsilon at max step of episode 16000 is 0.3599999999995543
+episode 17000 score -132.0 epsilon 0.3199999999995698
+ Epsilon at max step of episode 17000 is 0.3199999999995698
+episode 18000 score -129.0 epsilon 0.2799999999995853
+ Epsilon at max step of episode 18000 is 0.2799999999995853
+episode 19000 score -128.0 epsilon 0.23999999999959384
+ Epsilon at max step of episode 19000 is 0.23999999999959384
+episode 20000 score -127.0 epsilon 0.1999999999995816
+ Epsilon at max step of episode 20000 is 0.1999999999995816
+episode 21000 score -127.0 epsilon 0.15999999999956935
+ Epsilon at max step of episode 21000 is 0.15999999999956935
+episode 22000 score -131.0 epsilon 0.11999999999955885
+ Epsilon at max step of episode 22000 is 0.11999999999955885
+episode 23000 score -129.0 epsilon 0.07999999999956048
+ Epsilon at max step of episode 23000 is 0.07999999999956048
+episode 24000 score -129.0 epsilon 0.03999999999956211
+ Epsilon at max step of episode 24000 is 0.03999999999956211
+episode 25000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -128.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -127.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -127.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -127.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -127.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  139.5607
+Alpha= 0.1 Gamma= 0.99 Epsilon = 0.5
+episode 1000 score -154.0 epsilon 0.4600000000000155
+ Epsilon at max step of episode 1000 is 0.4600000000000155
+episode 2000 score -166.0 epsilon 0.420000000000031
+ Epsilon at max step of episode 2000 is 0.420000000000031
+episode 3000 score -141.0 epsilon 0.3800000000000465
+ Epsilon at max step of episode 3000 is 0.3800000000000465
+episode 4000 score -131.0 epsilon 0.34000000000006203
+ Epsilon at max step of episode 4000 is 0.34000000000006203
+episode 5000 score -134.0 epsilon 0.30000000000007754
+ Epsilon at max step of episode 5000 is 0.30000000000007754
+episode 6000 score -141.0 epsilon 0.26000000000009305
+ Epsilon at max step of episode 6000 is 0.26000000000009305
+episode 7000 score -136.0 epsilon 0.22000000000008774
+ Epsilon at max step of episode 7000 is 0.22000000000008774
+episode 8000 score -135.0 epsilon 0.1800000000000755
+ Epsilon at max step of episode 8000 is 0.1800000000000755
+episode 9000 score -135.0 epsilon 0.14000000000006324
+ Epsilon at max step of episode 9000 is 0.14000000000006324
+episode 10000 score -129.0 epsilon 0.10000000000005967
+ Epsilon at max step of episode 10000 is 0.10000000000005967
+episode 11000 score -139.0 epsilon 0.060000000000061296
+ Epsilon at max step of episode 11000 is 0.060000000000061296
+episode 12000 score -135.0 epsilon 0.020000000000062926
+ Epsilon at max step of episode 12000 is 0.020000000000062926
+episode 13000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -128.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -127.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -128.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -137.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -129.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  141.91806
+Alpha= 0.1 Gamma= 0.99 Epsilon = 0.2
+episode 1000 score -254.0 epsilon 0.15999999999998776
+ Epsilon at max step of episode 1000 is 0.15999999999998776
+episode 2000 score -150.0 epsilon 0.11999999999997726
+ Epsilon at max step of episode 2000 is 0.11999999999997726
+episode 3000 score -136.0 epsilon 0.0799999999999789
+ Epsilon at max step of episode 3000 is 0.0799999999999789
+episode 4000 score -154.0 epsilon 0.03999999999998052
+ Epsilon at max step of episode 4000 is 0.03999999999998052
+episode 5000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 5000 is 0.01
+episode 6000 score -140.0 epsilon 0.01
+ Epsilon at max step of episode 6000 is 0.01
+episode 7000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 7000 is 0.01
+episode 8000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 8000 is 0.01
+episode 9000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 9000 is 0.01
+episode 10000 score -135.0 epsilon 0.01
+ Epsilon at max step of episode 10000 is 0.01
+episode 11000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 11000 is 0.01
+episode 12000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 12000 is 0.01
+episode 13000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -142.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -138.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -133.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -131.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -130.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -141.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -136.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -132.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -134.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -143.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  145.53678
+Alpha= 0.1 Gamma= 0.5 Epsilon = 1.0
+episode 1000 score -248.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -213.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -159.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -148.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -151.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -149.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -144.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -153.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -146.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -148.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+episode 11000 score -152.0 epsilon 0.55999999999956
+ Epsilon at max step of episode 11000 is 0.55999999999956
+episode 12000 score -160.0 epsilon 0.51999999999952
+ Epsilon at max step of episode 12000 is 0.51999999999952
+episode 13000 score -155.0 epsilon 0.47999999999950776
+ Epsilon at max step of episode 13000 is 0.47999999999950776
+episode 14000 score -162.0 epsilon 0.4399999999995233
+ Epsilon at max step of episode 14000 is 0.4399999999995233
+episode 15000 score -158.0 epsilon 0.3999999999995388
+ Epsilon at max step of episode 15000 is 0.3999999999995388
+episode 16000 score -152.0 epsilon 0.3599999999995543
+ Epsilon at max step of episode 16000 is 0.3599999999995543
+episode 17000 score -169.0 epsilon 0.3199999999995698
+ Epsilon at max step of episode 17000 is 0.3199999999995698
+episode 18000 score -165.0 epsilon 0.2799999999995853
+ Epsilon at max step of episode 18000 is 0.2799999999995853
+episode 19000 score -155.0 epsilon 0.23999999999959384
+ Epsilon at max step of episode 19000 is 0.23999999999959384
+episode 20000 score -157.0 epsilon 0.1999999999995816
+ Epsilon at max step of episode 20000 is 0.1999999999995816
+episode 21000 score -148.0 epsilon 0.15999999999956935
+ Epsilon at max step of episode 21000 is 0.15999999999956935
+episode 22000 score -160.0 epsilon 0.11999999999955885
+ Epsilon at max step of episode 22000 is 0.11999999999955885
+episode 23000 score -160.0 epsilon 0.07999999999956048
+ Epsilon at max step of episode 23000 is 0.07999999999956048
+episode 24000 score -216.0 epsilon 0.03999999999956211
+ Epsilon at max step of episode 24000 is 0.03999999999956211
+episode 25000 score -228.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -216.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -159.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -224.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -225.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -226.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -219.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -158.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -157.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -219.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -216.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -157.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -213.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -218.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -159.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -160.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -211.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -217.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -158.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -155.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -218.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  181.16158
+Alpha= 0.1 Gamma= 0.5 Epsilon = 0.5
+episode 1000 score -204.0 epsilon 0.4600000000000155
+ Epsilon at max step of episode 1000 is 0.4600000000000155
+episode 2000 score -234.0 epsilon 0.420000000000031
+ Epsilon at max step of episode 2000 is 0.420000000000031
+episode 3000 score -149.0 epsilon 0.3800000000000465
+ Epsilon at max step of episode 3000 is 0.3800000000000465
+episode 4000 score -219.0 epsilon 0.34000000000006203
+ Epsilon at max step of episode 4000 is 0.34000000000006203
+episode 5000 score -148.0 epsilon 0.30000000000007754
+ Epsilon at max step of episode 5000 is 0.30000000000007754
+episode 6000 score -5000.0 epsilon 0.26000000000009305
+ Epsilon at max step of episode 6000 is 0.26000000000009305
+episode 7000 score -143.0 epsilon 0.22000000000008774
+ Epsilon at max step of episode 7000 is 0.22000000000008774
+episode 8000 score -235.0 epsilon 0.1800000000000755
+ Epsilon at max step of episode 8000 is 0.1800000000000755
+episode 9000 score -216.0 epsilon 0.14000000000006324
+ Epsilon at max step of episode 9000 is 0.14000000000006324
+episode 10000 score -220.0 epsilon 0.10000000000005967
+ Epsilon at max step of episode 10000 is 0.10000000000005967
+episode 11000 score -147.0 epsilon 0.060000000000061296
+ Epsilon at max step of episode 11000 is 0.060000000000061296
+episode 12000 score -146.0 epsilon 0.020000000000062926
+ Epsilon at max step of episode 12000 is 0.020000000000062926
+episode 13000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -218.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -234.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -224.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -161.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -158.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -148.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -148.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -216.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -231.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -166.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -146.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -224.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -145.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -144.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -169.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -162.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -165.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  248.79606
+Alpha= 0.1 Gamma= 0.5 Epsilon = 0.2
+episode 1000 score -231.0 epsilon 0.15999999999998776
+ Epsilon at max step of episode 1000 is 0.15999999999998776
+episode 2000 score -165.0 epsilon 0.11999999999997726
+ Epsilon at max step of episode 2000 is 0.11999999999997726
+episode 3000 score -242.0 epsilon 0.0799999999999789
+ Epsilon at max step of episode 3000 is 0.0799999999999789
+episode 4000 score -140.0 epsilon 0.03999999999998052
+ Epsilon at max step of episode 4000 is 0.03999999999998052
+episode 5000 score -139.0 epsilon 0.01
+ Epsilon at max step of episode 5000 is 0.01
+episode 6000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 6000 is 0.01
+episode 7000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 7000 is 0.01
+episode 8000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 8000 is 0.01
+episode 9000 score -155.0 epsilon 0.01
+ Epsilon at max step of episode 9000 is 0.01
+episode 10000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 10000 is 0.01
+episode 11000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 11000 is 0.01
+episode 12000 score -223.0 epsilon 0.01
+ Epsilon at max step of episode 12000 is 0.01
+episode 13000 score -212.0 epsilon 0.01
+ Epsilon at max step of episode 13000 is 0.01
+episode 14000 score -298.0 epsilon 0.01
+ Epsilon at max step of episode 14000 is 0.01
+episode 15000 score -164.0 epsilon 0.01
+ Epsilon at max step of episode 15000 is 0.01
+episode 16000 score -296.0 epsilon 0.01
+ Epsilon at max step of episode 16000 is 0.01
+episode 17000 score -221.0 epsilon 0.01
+ Epsilon at max step of episode 17000 is 0.01
+episode 18000 score -154.0 epsilon 0.01
+ Epsilon at max step of episode 18000 is 0.01
+episode 19000 score -153.0 epsilon 0.01
+ Epsilon at max step of episode 19000 is 0.01
+episode 20000 score -153.0 epsilon 0.01
+ Epsilon at max step of episode 20000 is 0.01
+episode 21000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 21000 is 0.01
+episode 22000 score -209.0 epsilon 0.01
+ Epsilon at max step of episode 22000 is 0.01
+episode 23000 score -218.0 epsilon 0.01
+ Epsilon at max step of episode 23000 is 0.01
+episode 24000 score -215.0 epsilon 0.01
+ Epsilon at max step of episode 24000 is 0.01
+episode 25000 score -158.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -159.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -211.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -205.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -206.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -211.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -152.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -202.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -156.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -147.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -206.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -151.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -221.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -149.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -209.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -150.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  188.20126
+Alpha= 0.1 Gamma= 0.2 Epsilon = 1.0
+episode 1000 score -158.0 epsilon 0.95999999999996
+ Epsilon at max step of episode 1000 is 0.95999999999996
+episode 2000 score -245.0 epsilon 0.91999999999992
+ Epsilon at max step of episode 2000 is 0.91999999999992
+episode 3000 score -5000.0 epsilon 0.87999999999988
+ Epsilon at max step of episode 3000 is 0.87999999999988
+episode 4000 score -5000.0 epsilon 0.83999999999984
+ Epsilon at max step of episode 4000 is 0.83999999999984
+episode 5000 score -5000.0 epsilon 0.7999999999998
+ Epsilon at max step of episode 5000 is 0.7999999999998
+episode 6000 score -5000.0 epsilon 0.75999999999976
+ Epsilon at max step of episode 6000 is 0.75999999999976
+episode 7000 score -5000.0 epsilon 0.71999999999972
+ Epsilon at max step of episode 7000 is 0.71999999999972
+episode 8000 score -5000.0 epsilon 0.67999999999968
+ Epsilon at max step of episode 8000 is 0.67999999999968
+episode 9000 score -5000.0 epsilon 0.63999999999964
+ Epsilon at max step of episode 9000 is 0.63999999999964
+episode 10000 score -5000.0 epsilon 0.5999999999996
+ Epsilon at max step of episode 10000 is 0.5999999999996
+episode 11000 score -5000.0 epsilon 0.55999999999956
+ Epsilon at max step of episode 11000 is 0.55999999999956
+episode 12000 score -5000.0 epsilon 0.51999999999952
+episode 13000 score -5000.0 epsilon 0.47999999999950776
+ Epsilon at max step of episode 13000 is 0.47999999999950776
+episode 14000 score -5000.0 epsilon 0.4399999999995233
+ Epsilon at max step of episode 14000 is 0.4399999999995233
+episode 15000 score -5000.0 epsilon 0.3999999999995388
+ Epsilon at max step of episode 15000 is 0.3999999999995388
+episode 16000 score -5000.0 epsilon 0.3599999999995543
+ Epsilon at max step of episode 16000 is 0.3599999999995543
+episode 17000 score -5000.0 epsilon 0.3199999999995698
+ Epsilon at max step of episode 17000 is 0.3199999999995698
+episode 18000 score -5000.0 epsilon 0.2799999999995853
+ Epsilon at max step of episode 18000 is 0.2799999999995853
+episode 19000 score -5000.0 epsilon 0.23999999999959384
+ Epsilon at max step of episode 19000 is 0.23999999999959384
+episode 20000 score -5000.0 epsilon 0.1999999999995816
+ Epsilon at max step of episode 20000 is 0.1999999999995816
+episode 21000 score -5000.0 epsilon 0.15999999999956935
+ Epsilon at max step of episode 21000 is 0.15999999999956935
+episode 22000 score -5000.0 epsilon 0.11999999999955885
+ Epsilon at max step of episode 22000 is 0.11999999999955885
+episode 23000 score -5000.0 epsilon 0.07999999999956048
+ Epsilon at max step of episode 23000 is 0.07999999999956048
+episode 24000 score -5000.0 epsilon 0.03999999999956211
+ Epsilon at max step of episode 24000 is 0.03999999999956211
+episode 25000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 25000 is 0.01
+episode 26000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 26000 is 0.01
+episode 27000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 27000 is 0.01
+episode 28000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 28000 is 0.01
+episode 29000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 29000 is 0.01
+episode 30000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 30000 is 0.01
+episode 31000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 31000 is 0.01
+episode 32000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 32000 is 0.01
+episode 33000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 33000 is 0.01
+episode 34000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 34000 is 0.01
+episode 35000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 35000 is 0.01
+episode 36000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 36000 is 0.01
+episode 37000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 37000 is 0.01
+episode 38000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 38000 is 0.01
+episode 39000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 39000 is 0.01
+episode 40000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 40000 is 0.01
+episode 41000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 41000 is 0.01
+episode 42000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 42000 is 0.01
+episode 43000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 43000 is 0.01
+episode 44000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 44000 is 0.01
+episode 45000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 45000 is 0.01
+episode 46000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 46000 is 0.01
+episode 47000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 47000 is 0.01
+episode 48000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 48000 is 0.01
+episode 49000 score -5000.0 epsilon 0.01
+ Epsilon at max step of episode 49000 is 0.01
+Average Number of Steps per Episode:  4791.71278
+
+
+
+
