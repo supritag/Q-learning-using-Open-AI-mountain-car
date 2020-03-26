@@ -16,4 +16,4 @@
             maxQ= is update policy of Q table argmax for Q values or not
 
 #### 4) values.txt has command line output of all runs for over 9 hours of running
-#### 5) Solutions.txt has understandings,  abstract ,inference, MIT Licence, References
+#### 5) Solutions.md has understandings,  abstract ,inference, MIT Licence, References
